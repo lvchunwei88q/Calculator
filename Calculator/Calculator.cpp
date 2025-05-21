@@ -3,7 +3,7 @@
 int main()
 {
     GlobalControl& Calculator = GlobalControl::getInstance();
-    SetLoop(Calculator);
+    //SetLoop(Calculator);
     return 0;
 }
 
