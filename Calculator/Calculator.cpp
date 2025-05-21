@@ -6,6 +6,14 @@ int main()
     SetLoop(Calculator);
     return 0;
 }
+void SSS(GlobalControl& Calculator)
+{
+    std::cout << "SSS" << std::endl;
+    if (true)
+    {
+        
+    }
+}
 
 void SetLoop(GlobalControl& Calculator)
 {
